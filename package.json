@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypress automation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  },
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "arsheya",
+  "license": "ISC"
+}
